@@ -9,7 +9,7 @@ import org.springframework.lang.Nullable;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by jt on 6/21/17.
+ * Created by rbenitez on November 2018.
  */
 @Component
 public class CategoryCommandToCategory implements Converter<CategoryCommand, Category>{

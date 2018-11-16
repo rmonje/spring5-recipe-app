@@ -8,7 +8,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * Created by jt on 6/21/17.
+ * Created by rbenitez on November 2018.
  */
 public class NotesToNotesCommandTest {
 
